@@ -1,0 +1,13 @@
+{
+    "type": "hypixelskyblockmod:forge",
+    "input": [
+		{
+		     "item": "hypixelskyblockmod:enchanted_diamond_block",
+		     "count": 2
+		}
+    ],
+    "output": {
+        "item": "hypixelskyblockmod:refined_diamond"
+    },
+    "time": 28800
+}

@@ -1,0 +1,34 @@
+modLoader="javafml"      #mandatory
+loaderVersion="[37,)"    #mandatory
+license="AGPL-3"         #mandatory
+
+#issueTrackerURL="https://www.google.com/" #optional
+
+[[mods]]                           #mandatory
+modId="hypixelskyblockmod"         #mandatory
+version="${file.jarVersion}"       #mandatory
+displayName="Hypixel SkyBlock"     #mandatory
+
+updateJSONURL="https://raw.githubusercontent.com/MrPineapple070/SkyBlock-1.17.1-37.1.0/main/Mod%20Documents/changelog.json" #optional
+displayURL="https://wiki.hypixel.net/Main_Page"                                                                             #optional
+logoFile="logo.png"                                                                                                         #optional
+credits="Read https://github.com/MrPineapple070/SkyBlock-1.17.1-37.1.0/blob/main/CREDITS.md"                                #optional
+authors="MrPineapple070"                                                                                                    #optional
+description='''
+Hypixel Skyblock
+'''
+
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.examplemod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[37,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1,1.18)"
+    ordering="NONE"
+    side="BOTH"
