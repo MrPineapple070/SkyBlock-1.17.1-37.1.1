@@ -1,0 +1,45 @@
+{
+    "homepage": "https://hypixel.net/categories/skyblock.194/",
+    "1.17.1": {
+      "0.12.0": "https://hypixel.net/threads/skyblock-patch-0-12-crystal-hollows.4373121/",
+      "0.12.0-2021.07.20": "https://hypixel.net/threads/july-20th-crystal-hollows-week-one-patch.4408606/",
+      "0.12.0-2021.07.27": "https://hypixel.net/threads/july-27-crystal-hollows-week-two-patch.4411690/",
+      "0.12.0-2021.08.13": "https://hypixel.net/threads/august-13-item-drops-tiny-patch.4469562/",
+      "0.12.0-2021.08.24": "https://hypixel.net/threads/august-24th-small-skyblock-bug-fixes-new-dungeon-rooms.4490743/",
+      "0.12.0-2021.09.07": "https://hypixel.net/threads/september-7th-weaponsmith-city-project.4530741/",
+      "0.12.0-2021.09.13": "https://hypixel.net/threads/september-13th-crystal-hollows-patch.4544534/",
+      "0.12.0-2021.09.23": "https://hypixel.net/threads/september-23-super-tiny-patch.4563561/",
+      "0.12.0-2021.10.04": "https://hypixel.net/threads/october-4-reforge-by-accessory-rarity-more.4585395/",
+      "0.12.0-2021.10.13": "https://hypixel.net/threads/october-13-some-qol-and-fixes.4601431/",
+      "0.12.0-2021.10.20": "https://hypixel.net/threads/october-20-crystal-hollows-achievements-dungeon-finder-settings.4612565/",
+      "0.12.0-2021.11.02": "https://hypixel.net/threads/november-2nd-rune-removal-and-bugfixes.4612091/",
+      "0.12.1": "https://hypixel.net/threads/skyblock-patch-0-12-1-the-museum.4629812/",
+      "0.12.1-2021-11-08": "https://hypixel.net/threads/november-8-bugs-qol-and-more-bugs.4639806/",
+      "0.12.1-2021-11-29": "https://hypixel.net/threads/skyblock-bingo-events.4686779/",
+      "0.12.1-2021-12-16": "https://hypixel.net/threads/december-16-some-more-bug-fixes.4714175/"
+    },
+    "1.16.5": {
+      "0.12.0": "https://hypixel.net/threads/skyblock-patch-0-12-crystal-hollows.4373121/",
+      "0.12.0-2021.07.20": "https://hypixel.net/threads/july-20th-crystal-hollows-week-one-patch.4408606/",
+      "0.12.0-2021.07.27": "https://hypixel.net/threads/july-27-crystal-hollows-week-two-patch.4411690/",
+      "0.12.0-2021.08.13": "https://hypixel.net/threads/august-13-item-drops-tiny-patch.4469562/",
+      "0.12.0-2021.08.24": "https://hypixel.net/threads/august-24th-small-skyblock-bug-fixes-new-dungeon-rooms.4490743/",
+      "0.12.0-2021.09.07": "https://hypixel.net/threads/september-7th-weaponsmith-city-project.4530741/",
+      "0.12.0-2021.09.13": "https://hypixel.net/threads/september-13th-crystal-hollows-patch.4544534/",
+      "0.12.0-2021.09.23": "https://hypixel.net/threads/september-23-super-tiny-patch.4563561/",
+      "0.12.0-2021.10.04": "https://hypixel.net/threads/october-4-reforge-by-accessory-rarity-more.4585395/",
+      "0.12.0-2021.10.13": "https://hypixel.net/threads/october-13-some-qol-and-fixes.4601431/",
+      "0.12.0-2021.10.20": "https://hypixel.net/threads/october-20-crystal-hollows-achievements-dungeon-finder-settings.4612565/",
+      "0.12.0-2021.11.02": "https://hypixel.net/threads/november-2nd-rune-removal-and-bugfixes.4612091/",
+      "0.12.1": "https://hypixel.net/threads/skyblock-patch-0-12-1-the-museum.4629812/",
+      "0.12.1-2021-11-08": "https://hypixel.net/threads/november-8-bugs-qol-and-more-bugs.4639806/",
+      "0.12.1-2021-11-29": "https://hypixel.net/threads/skyblock-bingo-events.4686779/",
+      "0.12.1-2021-12-16": "https://hypixel.net/threads/december-16-some-more-bug-fixes.4714175/"
+    },
+    "promos": {
+      "1.16.5-latest": "0.12.1",
+      "1.16.5-recommended": "0.12.1",
+      "1.17.1-latest": "0.12.1",
+      "1.17.1-recommended": "0.12.1"
+    }
+}
